@@ -31,6 +31,7 @@ h1, h2, h3, h4, h5, h6{
 p{
     margin-top: 0;
     line-height: 1.6;
+<<<<<<< HEAD
 }
 
 .main h1{
@@ -225,4 +226,3 @@ footer small{
 
 #breadcrumb ol li:last-child::after{
     content: none;
-}
